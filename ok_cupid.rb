@@ -34,8 +34,8 @@ end
 
 
 def satisfaction(head, tail, common)
-  score = 0
-  total = 0
+  score = 0.0
+  total = 0.0
 
 
   common.each do |c|
